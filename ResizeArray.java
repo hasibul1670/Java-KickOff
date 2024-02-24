@@ -6,8 +6,7 @@ public class ResizeArray {
       temp[i] = array[i];
 
     }
-    array = temp;
-    return array;
+    return temp;
   }
 
   public static void main(String[] args) {
