@@ -10,6 +10,8 @@
 // if stack empty ==> result[i] = -1;
 // else ==> result[i] = stack.peek();
 
+// run by intel
+
 
 
 import java.util.Stack;
